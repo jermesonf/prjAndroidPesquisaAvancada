@@ -1,0 +1,9 @@
+//Evento para Spinner
+        spDados.setOnItemSelectedListener
+                (new AdapterView.OnItemSelectedListener() {
+                    public void onItemSelected(AdapterView parent, View view, int pos, long id) {
+                        //programe aqui
+
+                    }
+                    public void onNothingSelected(AdapterView parent){}
+                });
